@@ -1,2 +1,2 @@
-# computer-sicence
+# computer-science
 this is my first cyber security project
